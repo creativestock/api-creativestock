@@ -34,6 +34,13 @@
             "nama": "Sent messages",
             "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/07168f0b4febad3ca969b697127b45e26f38c266/web-design/sent%20messages.svg",
             "download": "https://drive.google.com/file/d/1l_l_z7A76ywwzoEPaba7lewKQitEqU6F/view?usp=sharing"
+        },
+        {
+            "id": 6,
+            "kategori": "web design",
+            "nama": "User Profile",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/792f2d50d9270632f20701ca4b06ae06cca3f157/web-design/user%20profile.svg",
+            "download": "https://drive.google.com/file/d/1MpVTv3A0hDXdaGVsF40hRKrszi56TMkq/view?usp=sharing"
         }
     ]
 }
