@@ -48,6 +48,13 @@
             "nama": "Marketing",
             "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/46f0257aaba2881b1b3b71028c891ab3cf0a07ca/web-design/marketing.svg",
             "download": "https://drive.google.com/file/d/1AWu8MkKlz83Q89T9YKz_vAGxUsNkncQo/view?usp=sharing"
+        },
+        {
+            "id": 8,
+            "kategori": "web design",
+            "nama": "Analytics",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/06f93099a96253651cf6a122833d4abe2eecf3df/web-design/analytics.svg",
+            "download": "https://drive.google.com/file/d/1Q6SaoHNHPLva30wvO0WEQbnXjRomeP78/view?usp=sharing"
         }
     ]
 }
