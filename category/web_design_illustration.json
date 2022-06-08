@@ -41,6 +41,13 @@
             "nama": "User Profile",
             "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/792f2d50d9270632f20701ca4b06ae06cca3f157/web-design/user%20profile.svg",
             "download": "https://drive.google.com/file/d/1MpVTv3A0hDXdaGVsF40hRKrszi56TMkq/view?usp=sharing"
+        }, 
+        {
+            "id": 7,
+            "kategori": "web design",
+            "nama": "Marketing",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/46f0257aaba2881b1b3b71028c891ab3cf0a07ca/web-design/marketing.svg",
+            "download": "https://drive.google.com/file/d/1AWu8MkKlz83Q89T9YKz_vAGxUsNkncQo/view?usp=sharing"
         }
     ]
 }
