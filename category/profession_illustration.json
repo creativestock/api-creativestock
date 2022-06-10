@@ -11,8 +11,8 @@
             "id": 2,
             "kategori": "Profession",
             "nama": "Police",
-            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8184f60d5f42acfe386a5b03759bfda529f0f905/profession/police.svg",
-            "download": "https://drive.google.com/file/d/1kTIva4ikp-dHN-4UT60fZkki8t-Dp4wG/view?usp=sharing"
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/c925c96afa0be6f7aa748bdda644f6a935c1dd4a/profession/police.svg",
+            "download": "https://drive.google.com/file/d/150WuBBcjzZEvTMMKKAT_7QS4oKBCkhKm/view?usp=sharing"
         },
         {
             "id": 3,
@@ -25,8 +25,8 @@
             "id": 4,
             "kategori": "Profession",
             "nama": "Soldier",
-            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8184f60d5f42acfe386a5b03759bfda529f0f905/profession/soldier.svg",
-            "download": "https://drive.google.com/file/d/1Y8qY_FW496_rUsrRzNyYW1adwFAzPp6H/view?usp=sharing"
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/4d9db66cd7f247b41219461f7a27f1eaef747433/profession/soldier.svg",
+            "download": "https://drive.google.com/file/d/1hp1DaY_qVzL-6Hr0MKibLwZES4Rzx5aq/view?usp=sharing"
         },
         {
             "id": 5,
@@ -39,8 +39,8 @@
             "id": 6,
             "kategori": "Profession",
             "nama": "Chef",
-            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8c30591ae5bdfbcb94373f92a189b9892837161d/profession/chef.svg",
-            "download": "https://drive.google.com/file/d/1lJ4nuwSVv5a7pkbRiK9rFO9rQWAHVu-l/view?usp=sharing"
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/b6cf8f3f42e82d52a4b03ed480242588bc420c4b/profession/chef.svg",
+            "download": "https://drive.google.com/file/d/1iu4tBnXthUo-VuUbazRHa7hfzVzeKFnc/view?usp=sharing"
         },
         {
             "id": 7,
@@ -48,6 +48,13 @@
             "nama": "Architect",
             "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8c30591ae5bdfbcb94373f92a189b9892837161d/profession/architect.svg",
             "download": "https://drive.google.com/file/d/1GD5Ry2iBkzzCz8-I6mV_9UMmxoaI48R2/view?usp=sharing"
+        },
+         {
+            "id": 8,
+            "kategori": "Profession",
+            "nama": "Programmer",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/c0668f870bce0a6953664572e1a46d192d8a7c16/profession/programmer.svg",
+            "https://drive.google.com/file/d/1oJnyWR6Sx8PZIainv1PB4LfMZg-zgBi5/view?usp=sharing"
         }
     ]
 }
