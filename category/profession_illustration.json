@@ -27,6 +27,27 @@
             "nama": "Soldier",
             "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8184f60d5f42acfe386a5b03759bfda529f0f905/profession/soldier.svg",
             "download": "https://drive.google.com/file/d/1Y8qY_FW496_rUsrRzNyYW1adwFAzPp6H/view?usp=sharing"
+        },
+        {
+            "id": 5,
+            "kategori": "Profession",
+            "nama": "Teacher",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8c30591ae5bdfbcb94373f92a189b9892837161d/profession/teacher.svg",
+            "download": "https://drive.google.com/file/d/1UB-4_1734HqQb3DfQAXYa9wPXFVv5iKb/view?usp=sharing"
+        },
+        {
+            "id": 6,
+            "kategori": "Profession",
+            "nama": "Chef",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8c30591ae5bdfbcb94373f92a189b9892837161d/profession/chef.svg",
+            "download": "https://drive.google.com/file/d/1lJ4nuwSVv5a7pkbRiK9rFO9rQWAHVu-l/view?usp=sharing"
+        },
+        {
+            "id": 7,
+            "kategori": "Profession",
+            "nama": "Architect",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8c30591ae5bdfbcb94373f92a189b9892837161d/profession/architect.svg",
+            "download": "https://drive.google.com/file/d/1GD5Ry2iBkzzCz8-I6mV_9UMmxoaI48R2/view?usp=sharing"
         }
     ]
 }
